@@ -1,0 +1,9 @@
+Epochs taken to converge : -1
+Tau = 0.223
+Gamma = 0.478
+Q_learning = 1
+pi_learning = 0.354
+random_epsilon = 0.54
+noise_epsilon = 0.603
+
+=================================================
